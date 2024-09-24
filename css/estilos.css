@@ -1,0 +1,12 @@
+header{
+    background-image: url("../img/bandera.png");
+    background-repeat: repeat-x;
+}
+.imagen {
+    width: 400px;
+    height: 200px;
+  }
+.imagen2 {
+    width: 200px;
+    height: 200px;
+  }
